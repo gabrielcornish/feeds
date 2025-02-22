@@ -1,8 +1,15 @@
 [gabrielcornish]
 title = "Gabriel Cornish's Journal"
-url = "https://www.gabrielcornish.com/journal/"
+url = "https://www.gabrielcornish.com/journal"
 entrySelector = "article"
 titleSelector = "h2"
 linkSelector = "h2 a"
 contentSelector = "p"
 dateSelector = "h2"
+
+[wikivoyage]
+title = "Wikivoyage recommendations"
+url = "https://en.wikivoyage.org/wiki/Main_Page"
+entrySelector = ".jcarousel-wrapper .jcarousel-item"
+titleSelector = "h2"
+linkSelector = "h2 a"
